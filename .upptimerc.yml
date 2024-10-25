@@ -2,6 +2,16 @@
 owner: eldr-io # Your GitHub organization or username, where this repository lives
 repo: uptime-monitor # The name of this repository
 
+commitMessages:
+  commitAuthorName: "Eldr Bot"
+  commitAuthorEmail: "bot@eldr.io"
+  
+commitMessages:
+  readmeContent: ":pencil: Update summary in README [skip ci]"
+  summaryJson: ":card_file_box: Update status summary [skip ci]"
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci]"
+  graphsUpdate: ":bento: Update graphs [skip ci]"
+  
 sites:
   - name: eldr.io
     url: https://eldr.io
@@ -14,9 +24,10 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /uptime-monitor
   logoUrl: https://eldr.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftest.2c6097b6.png&w=256&q=75
-  name: Eldr.io Uptime Monitor
+  name: Eldr.io
   introTitle: "**Eldr.io Uptime Monitor** is the eldr uptime monitor and status page."
-  introMessage: Coming soon
+  introMessage: "Coming soon"
+  theme: dark
   navbar:
     - title: Status
       href: /
