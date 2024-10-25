@@ -4,7 +4,7 @@ repo: uptime-monitor # The name of this repository
 
 sites:
   - name: eldr.io
-    url: https://www.eldr.io
+    url: https://eldr.io
   - name: okra
     url: https://okra.eldr.io
 
