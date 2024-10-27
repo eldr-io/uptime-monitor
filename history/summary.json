@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eldr.io.ico",
     "slug": "eldr-io",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 804,
-    "timeDay": 804,
-    "timeWeek": 804,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 799,
+    "timeDay": 789,
+    "timeWeek": 799,
+    "timeMonth": 799,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2024-10-25": 2
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 718,
-    "timeWeek": 718,
-    "timeMonth": 718,
-    "timeYear": 718,
+    "time": 725,
+    "timeDay": 745,
+    "timeWeek": 725,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   }
 ]
