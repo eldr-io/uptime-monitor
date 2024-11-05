@@ -6,7 +6,7 @@
     "slug": "eldr-io",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-10-25": 2
     }
   },
@@ -35,6 +36,8 @@
     "timeWeek": 785,
     "timeMonth": 734,
     "timeYear": 734,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   }
 ]
